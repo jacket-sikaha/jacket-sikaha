@@ -47,7 +47,7 @@
 
 <p align="center">
 <a href="https://xhx.huagecloud.top/"><img alt="Website" src="https://img.shields.io/badge/https://xhx.huagecloud.top/-purple?style=flat-square&logo=google-chrome"></a>
-<a href="987555458@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="987555458@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-987555458@qq.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [sikaha](https://github.com/jacket-sikaha)
