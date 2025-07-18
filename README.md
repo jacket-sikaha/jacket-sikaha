@@ -50,7 +50,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="http://xhx.huage.eu.org/"><img alt="Website" src="https://img.shields.io/badge/http://xhx.huage.eu.org/-purple?style=flat-square&logo=google-chrome"></a>
+<a href="http://dns.huage.eu.org:8091/"><img alt="Website" src="https://img.shields.io/badge/http://dns.huage.eu.org:8091/-purple?style=flat-square&logo=google-chrome"></a>
 <a href="987555458@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-987555458@qq.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
